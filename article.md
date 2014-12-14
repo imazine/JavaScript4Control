@@ -153,7 +153,7 @@ function leftTo(elem, dest) {
 }
 ~~~
 
-[DEMO](/demo1)
+[DEMO](./demo1)
 
 _ _ _
 
@@ -170,7 +170,7 @@ button.addEventListener('click', function() {
 });
 ~~~
 
-[DEMO](/demo2)
+[DEMO](./demo2)
 
 _ _ _
 
