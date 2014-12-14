@@ -170,7 +170,7 @@ button.addEventListener('click', function() {
 });
 ~~~
 
-[DEMO](/demo1)
+[DEMO](/demo2)
 
 _ _ _
 
