@@ -186,14 +186,12 @@ _ _ _
 + 제어의 관점에서 JavaScript를 바라보자.
 + 모든것을 JavaScript 로 제어하지 말자.
 + Browser 가 할 수 있는건 Browser 에게.
+_ _ _
+
+# Thanks
 
 - - -
 
 #Q&A
 + email: imazine@me.com
 + facebook: imazine80
-
-_ _ _
-
-# Thanks
-
