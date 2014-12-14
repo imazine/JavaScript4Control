@@ -155,6 +155,8 @@ function leftTo(elem, dest) {
 
 [DEMO](./demo1)
 
+페이지 소스 보기를 이용해서 해당 소스를 확인해 주세요 :D
+
 _ _ _
 
 ### With CSS3
@@ -171,6 +173,8 @@ button.addEventListener('click', function() {
 ~~~
 
 [DEMO](./demo2)
+
+페이지 소스 보기를 이용해서 해당 소스를 확인해 주세요 :D
 
 _ _ _
 
